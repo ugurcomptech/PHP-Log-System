@@ -1,14 +1,4 @@
 <?php
-session_start();
-
-// Oturum kontrolü
-if (!isset($_SESSION['username'])) {
-    header('Location: admin_log.php'); // Kullanıcı oturum açmamışsa log.php sayfasına yönlendir
-    exit;
-}
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
