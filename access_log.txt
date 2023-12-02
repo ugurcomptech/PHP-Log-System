@@ -1,1 +1,1 @@
-#loglar buraya yazılır ve buradan access_log.php sayfasına gönderilir
+# loglar buraya yazılır ve buradan access_log.php sayfasına gönderilir
